@@ -1,0 +1,1 @@
+This extension is a workspace manager allowing you to view different bookmarks in your bookmarks bar.
